@@ -1,3 +1,3 @@
-# UVDailyStandup
+# UVStandupChooser
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/KMDHIB/UVDailyStandup)
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/KMDHIB/UVStandupChooser)
